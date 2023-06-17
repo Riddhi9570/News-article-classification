@@ -72,6 +72,6 @@ Entertainment Related Words:-
 
 - Accuracy, Precision, Recall and F1 score is displayed for each model.
 
-![image](https://github.com/Riddhi9570/News-article-classification/assets/72887868/ed41d666-eefe-432f-b153-f5a08e1364e0)
+![image](https://github.com/Riddhi9570/News-article-classification/assets/72887868/bfba7e65-9587-4fa5-8152-80e33d0e5cd9)
 
 - The best accuracy of model is 97.99 from Random Forest.
